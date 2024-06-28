@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/FlavioT26/FlavioT26/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
